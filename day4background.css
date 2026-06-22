@@ -1,0 +1,17 @@
+body {
+    /* Sets the background color of the webpage */
+    background-color: rgb(229, 224, 255);
+
+    /* Adds an image named flower.jpeg as the background */
+    background-image: url("sakthi.jpeg");
+
+    /* Prevents the image from repeating multiple times */
+    background-repeat:no repeat;
+
+    /* Keeps the background image fixed when scrolling */
+    background-attachment:fixed;
+
+    /* Places the background image at the center of the page */
+    background-position: center ;
+}
+

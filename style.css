@@ -1,0 +1,43 @@
+body {
+    color: green; 
+    background-color: black;
+  }
+
+
+h3{
+    color:yellow;
+    font-size:20px;
+}
+/*inline css */
+/*internal css */
+/*external css */
+
+/* simple selector */
+/* id selector */
+/* class selector */
+/*grouping selector */
+/* universal selector */
+
+
+#welcome1{
+    color:blue;
+}
+
+/* the above code is for id selector */
+.hi{
+    color:yellow
+}
+/*the above code is for class selector */
+a.hi{
+    color:royalblue
+}
+/* if u wnt multiple class selector then u can do like this */
+
+h1,p{
+    color:orange
+}
+/*the above code is for grouping selector */
+*{
+    color:white
+}
+/* the above code is for universal selector */

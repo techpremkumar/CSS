@@ -1,0 +1,19 @@
+body{
+    
+    background-image: url(sakthi.jpeg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    /* background-color is used to set the background color of an element */
+
+}
+
+h2{
+    background-color: red;
+    background-image: url("sakthi.jpeg");
+/* ?* background-image is used to set the background image of an element */
+}
+#Color{
+    background-color: green;
+}

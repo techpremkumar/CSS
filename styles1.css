@@ -1,0 +1,21 @@
+#welcome1{
+    color: rgb(132, 0, 255);
+
+    /* opacity is used to make an element transparent */
+    opacity: 0.7;
+
+    background-color: rgb(255, 153, 0);
+
+    background-image: url("Whatsapp Image 2024-06-17 at 12.44.28 PM.jpeg");
+}
+/*the above code iuse rgb color code for id selector */
+#welcome2{
+color: #00ff40;
+}
+/* the above code is for hex color code for id selector */
+#welcome3{
+    color: rgba(255, 0, 0, 0.137);
+}
+#welcome4{
+    color:hsl(317, 100%, 50%)
+}

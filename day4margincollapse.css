@@ -1,0 +1,13 @@
+h1 {
+    background-color: lightblue;
+
+    /* Space below the heading */
+    margin-bottom: 150px;
+}
+
+p {
+    background-color: lightyellow;
+
+    /* Space above the paragraph */
+    margin-bottom: 50px;
+}
